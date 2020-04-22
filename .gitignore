@@ -1,0 +1,6 @@
+# vs 工程文件
+*.sln
+*vc*
+*vs*
+*bin
+*temp
