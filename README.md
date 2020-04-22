@@ -1,2 +1,2 @@
-# myTinySTL
-implement a tiny STL code
+# TinyStdRewrite 简介
+心血来潮，尝试将 `c++` 标准库中一些常用函数或者类重写，不定期更新。
